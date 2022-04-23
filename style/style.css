@@ -13,6 +13,7 @@
     /* test: background-color: red }*/
  
 p{
+    /* WE LEARNED: in the style sheet, when we use p{} */
     background-color:bisque;
     width: 500px;
     
