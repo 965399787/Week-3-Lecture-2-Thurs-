@@ -1,0 +1,17 @@
+/* We put the style.css in the style folder, dont know what */
+/*We want to Reset the page, like putting white or primer on a canvas*/
+*{
+    /* margin is the most outside layer indented on all sides of page */
+    margin : 0;
+    /* Padding is the inner most indented space around code block/text */
+    padding : 0;
+    /* Border is inbetween margin and padding */
+    box-sizing: border-box;
+}
+body{
+    /* body style */
+    /* test: background-color: red */
+}
+p{
+    background-color:bisque
+}
