@@ -8,10 +8,12 @@
     /* Border is inbetween margin and padding */
     box-sizing: border-box;
 }
-body{
+/* body{
     /* body style */
-    /* test: background-color: red */
-}
+    /* test: background-color: red }*/
+ 
 p{
-    background-color:bisque
+    background-color:bisque;
+    width: 500px;
+    
 }
