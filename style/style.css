@@ -14,7 +14,12 @@
  
 p{
     /* WE LEARNED: in the style sheet, when we use p{} */
-    background-color:bisque;
+    /* only p{} will be effected, same with all other tags */
+    /* such as  div{}, body{}*/
+    background-color:aquamarine;
     width: 500px;
     
+}
+div{
+    background-color: blanchedalmond;
 }
